@@ -1,4 +1,4 @@
-# machine-learning
+# machine-learning_XGBregression
 
 Built a XGB regression model to predict the california house price
 the dataset is from 
